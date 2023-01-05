@@ -1,0 +1,16 @@
+.App {
+  color: red;
+  display: flex;
+  justify-content: center;
+  padding: 100px;
+}
+
+table, th, td {
+  border: 1px black solid;
+}
+
+.App th {
+  color: black;
+  padding-right: 100px;
+}
+
